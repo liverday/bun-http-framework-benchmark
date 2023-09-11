@@ -47,15 +47,13 @@ Dump result will be available at `results/[benchmark-name].txt`
 
 This benchmark is tested under the following condition:
 
--   Windows 11 under WSL Debian
--   Intel I7-13700K, DDR5 32GB 5600MHz
--   Windows 11 22H2 build 22621.1778
--   Debian GNU/Linux 11 (Bullseye), kernel: 5.15.90.1-microsoft-standard-WSL2
+-   Macbook Pro 2020
+-   M1, DDR5 16GB
+-   macOS Monterey
 -   Bun 1.0.0
--   Node 18.16.0
--   Deno 1.36.0
+-   Node 20.17.0
 
-Tested on 8 Sep 2023 23:39 (GMT+7)
+Tested on 11 Sep 2023 14:37 (GMT-3)
 
 ## Results
 
